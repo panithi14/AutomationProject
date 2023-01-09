@@ -8,6 +8,7 @@ public class ProductDemo {
 <<<<<<< HEAD
 		System.out.println("demo3");
 		System.out.println("demo5");
+		system.out.printlt("tom");
 =======
 		System.out.println("test");
 >>>>>>> 77057737d7227bd8bbfd03c54d0fe25e37020147
